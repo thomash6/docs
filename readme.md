@@ -5,7 +5,7 @@ You can access this documentation online at https://docs.iota.org/ .
 
 ### Running Locally
 
-Download the copy of this repostory.
+Download the copy of this repository.
 
 ```sh
 git clone https://github.com/iotaledger/docs.git
